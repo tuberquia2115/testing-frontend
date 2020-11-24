@@ -1,3 +1,2 @@
-# Prueba html, css, js,
-
-en la prueba me hace falta realizar el responsive. y retocar algunos estilos.
+# testing-frontend
+prueba de realizar una interfaz de agregación de productos
