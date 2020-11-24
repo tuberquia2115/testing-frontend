@@ -1,0 +1,61 @@
+.toolbar {
+    padding-bottom: 105px;
+    background-color: #DEDAD9;
+
+}
+
+
+
+.navbar {
+    max-width: 100%;
+    padding-left: 240px;
+}
+
+[class$="material-icons"] {
+    font-size: 24px;
+    color: #524f4f;
+
+}
+
+
+.root {
+    display: flex;
+    flex-direction: row;
+}
+
+.container-main {
+    padding: 3rem;
+}
+
+li {
+    list-style: none;
+}
+
+p {
+    padding-right: 2rem;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.container-files {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0.7rem;
+    border: 2px dashed grey;
+}
+
+input[type="file"] {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+
+ul{
+    font-size: 20px;
+}

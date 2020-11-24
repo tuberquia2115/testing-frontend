@@ -1,0 +1,11 @@
+{
+  "name": "prueba-frontend-tsakana",
+  "version": "1.0.0",
+  "description": "Prueba de seleccion",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jose Manuel Graciano Tuberquia",
+  "license": "ISC"
+}
